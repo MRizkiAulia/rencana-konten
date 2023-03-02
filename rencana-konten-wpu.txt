@@ -2,8 +2,10 @@ Rencana Konten WPU
 
 -Javascript
   *ES6
-  *Framework
+  *Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+    ^ Laravel
 - Interview
-
+- Python
